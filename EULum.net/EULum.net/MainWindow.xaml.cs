@@ -23,6 +23,7 @@ namespace EULum.net
         public MainWindow()
         {
             InitializeComponent();
+            Test.Items.Add("boom!");
         }
     }
 }
