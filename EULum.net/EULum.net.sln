@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EULum.net", "EULum.net\EULum.net.csproj", "{C7A369E8-521C-4BDF-8CB1-96C6BB012013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuLum.net", "EuLum.net\EuLum.net.csproj", "{F8270F49-3CDF-4D23-A111-47932EC8A224}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C7A369E8-521C-4BDF-8CB1-96C6BB012013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7A369E8-521C-4BDF-8CB1-96C6BB012013}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7A369E8-521C-4BDF-8CB1-96C6BB012013}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7A369E8-521C-4BDF-8CB1-96C6BB012013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8270F49-3CDF-4D23-A111-47932EC8A224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8270F49-3CDF-4D23-A111-47932EC8A224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8270F49-3CDF-4D23-A111-47932EC8A224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8270F49-3CDF-4D23-A111-47932EC8A224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
